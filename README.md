@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Software+Developer;React+%26+Python+FastAPI+Specialist;Building+Scalable+Async+Web+Apps" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   
   ## Hi everyone. I'm Nguyen Duc Hieu, a Software Engineer student at HCMUT👋
 
@@ -55,4 +61,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duchieu123-cell&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ashutosh007/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duchieu123-cell&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
 </div>
