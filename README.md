@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Software+Developer;React+%26+Python+FastAPI+Specialist;Building+Scalable+Async+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Software+Developer;React+%26+Python+FastAPI+Specialist;Building+Scalable+Async+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-**Full-Stack Developer** đam mê xây dựng các hệ thống web hoàn chỉnh, hiệu năng cao từ giao diện người dùng mượt mà đến kiến trúc backend mở rộng:
+**Fullstack Developer** đam mê xây dựng các hệ thống web hoàn chỉnh, hiệu năng cao từ giao diện người dùng mượt mà đến kiến trúc backend mở rộng:
 
 - 🔭 **Hiện tại:** Tập trung phát triển các ứng dụng Full-stack tích hợp AI (FastAPI, React, Vector Search, Streaming API).
 - ⚡ **Thế mạnh Frontend:** Kiến trúc React Vite linh hoạt, quản lý state hiệu quả với Zustand, tối ưu hóa data fetching bằng TanStack Query và thiết kế UI mượt mà với Tailwind CSS & Framer Motion.
