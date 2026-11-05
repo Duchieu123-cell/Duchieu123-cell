@@ -65,8 +65,4 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ashutosh007/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duchieu123-cell&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
-  </a>
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/ashutosh007/github-readme-activity-graph)
