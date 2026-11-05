@@ -64,9 +64,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duchieu123-cell&theme=tokyo-night&hide_border=true&area=true&v=2" alt="GitHub Activity Graph" width="100%" />
-  </a>
-</div>
