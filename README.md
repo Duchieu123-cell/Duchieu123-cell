@@ -17,12 +17,12 @@
 
 ### 👨‍💻 About Me
 
-**Fullstack Developer** đam mê xây dựng các hệ thống web hoàn chỉnh, hiệu năng cao từ giao diện người dùng mượt mà đến kiến trúc backend mở rộng:
+**Fullstack Developer** passionate about building end-to-end, high-performance web systems—from seamless user interfaces to scalable backend architectures:
 
-- 🔭 **Hiện tại:** Tập trung phát triển các ứng dụng Full-stack tích hợp AI (FastAPI, React, Vector Search, Streaming API).
-- ⚡ **Thế mạnh Frontend:** Kiến trúc React Vite linh hoạt, quản lý state hiệu quả với Zustand, tối ưu hóa data fetching bằng TanStack Query và thiết kế UI mượt mà với Tailwind CSS & Framer Motion.
-- ⚙️ **Thế mạnh Backend:** Xây dựng Async RESTful API chuẩn mực với Python FastAPI, SQLAlchemy 2.0 Async, PostgreSQL (pgvector), Redis Caching và đóng gói ứng dụng với Docker.
-- 🎯 **Triết lý làm việc:** Clean code, kiến trúc ưu tiên tính mô-đun, xử lý lỗi trung tâm và tối ưu trải nghiệm người dùng cuối.
+- 🔭 **Currently:** Focused on developing AI-powered full-stack applications (FastAPI, React, Vector Search, Streaming API).
+- ⚡ **Frontend Strengths:** Modular React + Vite architecture, efficient state management with Zustand, optimized data fetching via TanStack Query, and fluid UI design using Tailwind CSS & Framer Motion.
+- ⚙️ **Backend Strengths:** Building production-grade Async RESTful APIs with Python FastAPI, SQLAlchemy 2.0 Async, PostgreSQL (pgvector), Redis caching, and containerizing applications with Docker.
+- 🎯 **Work Philosophy:** Clean code, modular-first architecture, centralized error handling, and optimizing the end-user experience.
 
 ---
 
